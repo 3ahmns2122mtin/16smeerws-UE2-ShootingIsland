@@ -8,6 +8,7 @@ Einführung in / Zusammenfassung des Projektes.
 
 ### Zielplattform: 
 WebGL Referenzauflösung (960x600) 
+https://3ahmns2122mtin.github.io/16smeerws-UE2-ShootingIsland/
 
 ### Visuelle Einblicke in das Projekt: 
 Screenshots (Konzept, Spielabschnitte), Video (< 100MB, < 3 min)
@@ -19,6 +20,7 @@ z.B.: Installationsprozess, Schritt für Schritt Anweisung, spezielles Packages 
 Falls verwendet Fonts, Sounds, Music, Graphics, Materials, Code etc. welches nicht von mir stammt muss hier referenziert werden. 
 
 ### Anforderungsliste:    
+- [ ] WebGL export/upload lauffähig/spielbar
 - [ ] 2D Untiyprojekt Version 2020.3.18f1 LTS öffnen
 - [ ] In Assets Folder MyGame anlegen.
 - [ ] Den Ordner Scenes in Assets > MyGame ziehen
